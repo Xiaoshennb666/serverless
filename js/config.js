@@ -5,6 +5,6 @@ window._config = {
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
-        invokeUrl: '' //本次不使用，这里请留空
+        invokeUrl: 'https://unbhrx89tg.execute-api.us-east-1.amazonaws.com/prod/' //本次不使用，这里请留空
     }
 };
